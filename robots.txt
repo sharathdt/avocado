@@ -1,1 +1,1 @@
-Sitemap: /avocado/sitemap.xml
+Sitemap: http://localhost:4000/avocado/sitemap.xml
