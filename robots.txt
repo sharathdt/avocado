@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://avocado.jekyll-themes.com/sitemap.xml
